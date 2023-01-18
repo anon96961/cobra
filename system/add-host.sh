@@ -1,3 +1,4 @@
+#!/bin/bash
 # // CODE WARNA
 export RED='\e[1;31m'
 export GREEN='\e[0;32m'
