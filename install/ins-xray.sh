@@ -1,3 +1,4 @@
+#!/bin/bash
 # // wget https://github.com/${GitUser}/
 GitUser="NikmatSenip"
 
@@ -26,6 +27,9 @@ echo -e "\e[31mPlease buy script first\e[0m"
 exit 0
 fi
 clear
+
+# // install socat
+apt install socat
 
 # // EMAIL & DOMAIN
 export emailcf=$(cat /usr/local/etc/xray/email)
