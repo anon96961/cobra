@@ -75,7 +75,7 @@ case $sys in
 add-host
 ;;
 2)
-certv2ray
+cert
 ;;
 3)
 dns
