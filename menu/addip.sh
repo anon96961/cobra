@@ -1,3 +1,4 @@
+#!/bin/bash
 # Color Validation
 DF='\e[39m'
 Bold='\e[1m'
@@ -126,7 +127,7 @@ echo "  Order ID      : $id"
 echo "  Register Date : $hariini"
 echo "  Expired Date  : $exp"
 echo "  Client Name   : $client"
-echo "  Script Ver    : Multiport_Pakya"
+echo "  Script Ver    : AQUAGURL_MULTIPORT"
 echo -e "\033[0;34m----------------------------------------\033[0m"
 echo " Update & Upgrade First Your VPS for Debian 10 & 11: "
 echo ""
