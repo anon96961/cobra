@@ -104,7 +104,7 @@ wget -O system "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/men
 wget -O menu "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/menu.sh"
 wget -O add-host "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/system/add-host.sh"
 wget -O check-sc "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/system/running.sh"
-wget -O certv2ray "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/cert.sh"
+wget -O cert "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/cert.sh"
 wget -O trojaan "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/menu/trojaan.sh"
 wget -O xraay "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/menu/xraay.sh"
 wget -O xp "https://raw.githubusercontent.com/${GitUser}/hasilsenip/main/xp.sh"
