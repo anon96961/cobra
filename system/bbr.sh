@@ -1,4 +1,4 @@
-#Optimasi Speed By PAKYAVPN
+#!/bin/bash
 #wget https://github.com/${GitUser}/
 GitUser="NikmatSenip"
 #IZIN SCRIPT
