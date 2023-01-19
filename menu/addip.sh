@@ -97,9 +97,9 @@ fi
 
 daftarip=$(cat /root/data)
 rm -rf /root/allow
-git config --global user.email "aquagurl2601@gmail.com"
-git config --global user.name "NikmatSenip"
-git clone https://github.com/NikmatSenip/allow.git
+git config --global user.email "cobravpn969@gmail.com"
+git config --global user.name "anon96961"
+git clone https://github.com/anon96961/allow.git
 mkdir /root/allow
 cd /root/allow/
 rm -rf .git
@@ -111,8 +111,8 @@ git init >/dev/null 2>&1
 git add .
 git commit -m register
 git branch -M main
-git remote add origin https://github.com/NikmatSenip/allow.git
-git push -f https://${tokengit}@github.com/NikmatSenip/allow.git
+git remote add origin https://github.com/anon96961/allow.git
+git push -f https://${tokengit}@github.com/anon96961/allow.git
 echo -e "IPVPS Registration Completed"
 sleep 1
 links1="apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot"
@@ -127,7 +127,7 @@ echo "  Order ID      : $id"
 echo "  Register Date : $hariini"
 echo "  Expired Date  : $exp"
 echo "  Client Name   : $client"
-echo "  Script Ver    : AQUAGURL_MULTIPORT"
+echo "  Script Ver    : COBRAVPN_MULTIPORT"
 echo -e "\033[0;34m----------------------------------------\033[0m"
 echo " Update & Upgrade First Your VPS for Debian 10 & 11: "
 echo ""
@@ -166,8 +166,8 @@ clear
 rm -rf /root/allow
 rm -rf /root/data
 rm -rf /root/ipvps.conf
-git config --global user.email "aquagurl2601@gmail.com"
-git config --global user.name "NikmatSenip"
+git config --global user.email "cobravpn969@gmail.com"
+git config --global user.name "anon96961"
 git clone https://github.com/NikmatSenip/allow.git
 mkdir /root/allow
 cd /root/allow/
@@ -194,8 +194,8 @@ git init >/dev/null 2>&1
 git add .
 git commit -m delete
 git branch -M main
-git remote add origin https://github.com/NikmatSenip/allow.git
-git push -f https://${tokengit}@github.com/NikmatSenip/allow.git
+git remote add origin https://github.com/anon96961/allow.git
+git push -f https://${tokengit}@github.com/anon96961/allow.git
 clear
 echo -e "\033[0;34m----------------------------------------\033[0m"
 echo " Client IP Deleted Successfully"
@@ -221,9 +221,9 @@ exit 0
 fi
 clear
 rm -rf /root/allow
-git config --global user.email "aquagurl2601@gmail.com"
-git config --global user.name "NikmatSenip"
-git clone https://github.com/NikmatSenip/allow.git
+git config --global user.email "cobravpn969@gmail.com"
+git config --global user.name "anon96961"
+git clone https://github.com/anon96961/allow.git
   mkdir /root/allow
   cd /root/allow/
   rm -rf .git
@@ -268,8 +268,8 @@ sed -i "s/### $user $exp/### $user $exp4/g" /root/allow/ipvps.conf
 git add .
 git commit -m renew
 git branch -M main
-git remote add origin https://github.com/NikmatSenip/allow.git
-git push -f https://${tokengit}@github.com/NikmatSenip/allow.git
+git remote add origin https://github.com/anon96961/allow.git
+git push -f https://${tokengit}@github.com/anon96961/allow.git
 echo -e "IPVPS Registration Completed"
   clear
 echo -e "\033[0;34m----------------------------------------\033[0m"
@@ -300,9 +300,9 @@ clear
 rm -rf /root/allow
 rm -rf /root/data
 rm -rf /root/ipvps.conf
-git config --global user.email "aquagurl2601@gmail.com"
-git config --global user.name "NikmatSenip"
-git clone https://github.com/NikmatSenip/allow.git
+git config --global user.email "cobravpn969@gmail.com"
+git config --global user.name "anon96961"
+git clone https://github.com/anon96961/allow.git
 cd /root/allow/
 rm -rf .git
 git init
